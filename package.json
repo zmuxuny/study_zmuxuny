@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://zmuxuny.github.io/study_zmuxunyzmuxuny",
+  "homepage": "http://zmuxuny.github.io/study_zmuxuny",
+
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
